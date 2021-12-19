@@ -1,0 +1,26 @@
+Git life cycle :
+----------------
+ 
+working directory -wd
+staging area
+local repository
+
+1.init
+2.add
+3.commit
+
+step:
+
+creating a working directory
+
+git init ===> (creates .git golder in hidden mode)
+
+1.txt <file> ==>its not tracked by git
+
+git add 1.txt ==> its under staging area
+
+save the file with id 
+
+git commit -m "first commit"
+
+
